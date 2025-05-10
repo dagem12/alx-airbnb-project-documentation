@@ -2,10 +2,6 @@
 
 This folder contains the use case diagram for the backend of the Airbnb Clone project. It shows how different users (actors) interact with the system for the main features like registering, booking properties and handling payments.
 
-## 📄 File
-
-- `airbnb_clone_use_case_diagram.png` — the use case diagram image I made with Draw.io
-
 ## 🧩 What’s in the diagram
 
 Here’s a quick breakdown of the actors and what they can do:
@@ -26,4 +22,4 @@ Here’s a quick breakdown of the actors and what they can do:
 
 The "System" (backend API) handles all those actions in between.
 
-
+![USECASE](https://github.com/dagem12/alx-airbnb-project-documentation/blob/main/use-case-diagram/airbnb_clone_use_case_diagram.png?raw=true)
