@@ -7,6 +7,7 @@ This document defines the **technical** and **functional** requirements for the 
 - Property Management  
 - Booking System  
 
+
 ---
 
 ## 1. User Authentication
